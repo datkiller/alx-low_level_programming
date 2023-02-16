@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - print function
- * Ri:::::eturn: 0 easy 
+ * Return: 0 easy 
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");
-        return (0);
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }
