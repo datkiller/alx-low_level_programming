@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Prints "Hello"
- * Retrun: 0 sucess
+ * Return: 0 sucess
  */
 int main(void)
 {
