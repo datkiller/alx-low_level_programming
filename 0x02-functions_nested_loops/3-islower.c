@@ -3,6 +3,8 @@
 /**
  * _islower - Function check for lowercase character
  *
+ * @c: The character is ASCII code
+ *
  * Return: 1 for sucess - 0 for failure
  */
 
